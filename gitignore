@@ -1,0 +1,4 @@
+node_modules/
+auth/
+.git/
+.DS_Store
